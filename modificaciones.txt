@@ -1,0 +1,7 @@
+Archivos modificados
+
+nav_header_main.xml (camio de texto de la etiqueta, Datos de perfil)
+activity_perfil.xml (id's de campos y texto para el perfil)
+VacanteListener.java (se completó el código para ver detalle de vacantes)
+Perfil.java (se completó el código para ver detalle de perfil)
+MainActivity.java (llamada a la interfaz de perfil, con paso de parámetro)
